@@ -1,0 +1,11 @@
+{
+    // Ushbu konfiguratsiyani nomlang
+    "name": "Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
